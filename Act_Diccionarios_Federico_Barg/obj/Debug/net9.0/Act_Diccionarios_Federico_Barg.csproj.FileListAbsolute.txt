@@ -1,0 +1,14 @@
+Z:\4IB\Prog\Act_Diccionarios_Federico_Barg\bin\Debug\net9.0\Act_Diccionarios_Federico_Barg.exe
+Z:\4IB\Prog\Act_Diccionarios_Federico_Barg\bin\Debug\net9.0\Act_Diccionarios_Federico_Barg.deps.json
+Z:\4IB\Prog\Act_Diccionarios_Federico_Barg\bin\Debug\net9.0\Act_Diccionarios_Federico_Barg.runtimeconfig.json
+Z:\4IB\Prog\Act_Diccionarios_Federico_Barg\bin\Debug\net9.0\Act_Diccionarios_Federico_Barg.dll
+Z:\4IB\Prog\Act_Diccionarios_Federico_Barg\bin\Debug\net9.0\Act_Diccionarios_Federico_Barg.pdb
+Z:\4IB\Prog\Act_Diccionarios_Federico_Barg\obj\Debug\net9.0\Act_Diccionarios_Federico_Barg.GeneratedMSBuildEditorConfig.editorconfig
+Z:\4IB\Prog\Act_Diccionarios_Federico_Barg\obj\Debug\net9.0\Act_Diccionarios_Federico_Barg.AssemblyInfoInputs.cache
+Z:\4IB\Prog\Act_Diccionarios_Federico_Barg\obj\Debug\net9.0\Act_Diccionarios_Federico_Barg.AssemblyInfo.cs
+Z:\4IB\Prog\Act_Diccionarios_Federico_Barg\obj\Debug\net9.0\Act_Diccionarios_Federico_Barg.csproj.CoreCompileInputs.cache
+Z:\4IB\Prog\Act_Diccionarios_Federico_Barg\obj\Debug\net9.0\Act_Diccionarios_Federico_Barg.dll
+Z:\4IB\Prog\Act_Diccionarios_Federico_Barg\obj\Debug\net9.0\refint\Act_Diccionarios_Federico_Barg.dll
+Z:\4IB\Prog\Act_Diccionarios_Federico_Barg\obj\Debug\net9.0\Act_Diccionarios_Federico_Barg.pdb
+Z:\4IB\Prog\Act_Diccionarios_Federico_Barg\obj\Debug\net9.0\Act_Diccionarios_Federico_Barg.genruntimeconfig.cache
+Z:\4IB\Prog\Act_Diccionarios_Federico_Barg\obj\Debug\net9.0\ref\Act_Diccionarios_Federico_Barg.dll

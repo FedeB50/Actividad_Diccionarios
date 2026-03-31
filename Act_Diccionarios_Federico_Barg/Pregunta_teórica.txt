@@ -1,0 +1,1 @@
+Agregaría una clase que tenga como variables Rareza y el diccionario materiales
